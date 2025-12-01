@@ -19,7 +19,7 @@ In diesem Repository sammle ich meine Lösungen, Ideen und Notizen zu allen täg
 ## 🚀 Ziele dieses Projekts
 
 - Jeden Tag eine Challenge lösen  
-- Sauberen und gut dokumentierten Code schreiben  
+- Sauberen und gut dokumentierten Code schreiben 
 - Neue Lösungsansätze ausprobieren  
 - Spaß haben – es ist Advent! 🎅
 
