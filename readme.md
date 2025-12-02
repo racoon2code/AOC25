@@ -13,6 +13,7 @@ In diesem Repository sammle ich meine Lösungen, Ideen und Notizen zu allen täg
 - **Programmiersprache / Tools:**  
   - Python
 
+  - Python
 
 ---
 
@@ -54,4 +55,5 @@ Website: https://adventofcode.com/
 | 02  | ✔️      | ✔️    |
 
 ---
+
 
